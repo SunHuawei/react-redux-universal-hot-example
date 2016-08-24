@@ -11,6 +11,7 @@
 
 ## Notice
 Since the original project has been abandoned. I forked this, and I am going to do:
+
 1. Keep all of these libraries right at the bleeding edge.
 2. Keep it focus on the front-end, regarding the original idea.
 3. Improve this stack continuously.
