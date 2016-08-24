@@ -9,6 +9,22 @@
 
 ---
 
+## Notice
+Since the original project has been abandoned. I forked this, and I am going to do:
+1. Keep all of these libraries right at the bleeding edge.
+2. Keep it focus on the front-end, regarding the original idea.
+3. Improve this stack continuously.
+
+> This repo was beyond just getting started up and running fast but was a great place for people to share the latest trends, libraries, etc. and see it in action! -- @mmahalwy
+
+This is the goal of this repo.
+
+## Plan
+1. Fix deps
+2. Switch URLs
+3. Make next plan
+
+
 ## About
 
 This is a starter boilerplate app I've put together using the following technologies:
